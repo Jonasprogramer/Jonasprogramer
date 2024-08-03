@@ -8,5 +8,5 @@ I am an apprentice who loves solving problems, creating things, passionate about
 
 ### 🌍 "Não sou o que digo, mas o resultado que carrego" 🧠
 
-- 📍 From PI TERESINA
+- 📍 From MA LAGO DO JUNCO
 - 💻 FrontEnd Developer
