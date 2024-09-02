@@ -2,7 +2,7 @@
 
 My name is Jonas Miqueias 👨‍🇧🇷
 
-I'm a Computer science student.  💻
+Computer science.  💻
 
 I am an apprentice who loves solving problems, creating things, passionate about technology.
 
@@ -10,3 +10,4 @@ I am an apprentice who loves solving problems, creating things, passionate about
 
 - 📍 From MA LAGO DO JUNCO
 - 💻 FrontEnd Developer
+- Fullstack Developer
