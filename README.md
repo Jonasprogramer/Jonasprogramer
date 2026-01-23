@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA5djkxazFmMHVxZHJ2ZjQzY3F4bDNpaHNsa25qYm1ib2J3dDI3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tTc43DeTm2kkJTrI2G/giphy.webp"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -43,9 +39,5 @@
 ###
 
 <br clear="both">
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
