@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jonas Miqueias... and I'm a Full stack dev, from Teresina PI BR.</h2>
+<h2 align="left">Hi 👋! My name is Jonas Miqueias... and I'm a Full stack dev.</h2>
 
 ###
 
